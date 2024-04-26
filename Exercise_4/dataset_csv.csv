@@ -1,0 +1,6 @@
+"process.b1.capacity","process.b2.capacity","verification.result"
+"1","1","1"
+"-1","1","0"
+"1","1","1"
+"-1","1","1"
+"1","-1","0"
